@@ -16,7 +16,7 @@
   <MainWindow>
     <Color>#606060</Color>
     <FullScreen>false</FullScreen>
-    <Geometry>@Rect(0 44 1364 944)</Geometry>
+    <Geometry>@Rect(542 123 1364 944)</Geometry>
     <Maximized>false</Maximized>
   </MainWindow>
   <ModePriorities>
@@ -2575,7 +2575,7 @@
           <recentlyUpdatedColor>#ff7957</recentlyUpdatedColor>
           <recentlyUpdatedTimeout>500</recentlyUpdatedTimeout>
           <showDescription>false</showDescription>
-          <showMetaData>false</showMetaData>
+          <showMetaData>true</showMetaData>
           <splitterState>@ByteArray()</splitterState>
           <unknownObjectColor>#a0a0a4</unknownObjectColor>
         </data>
